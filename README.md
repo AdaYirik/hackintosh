@@ -1,6 +1,4 @@
-# temp
-**Micro-Star International Co., Ltd. GE73 Raider RGB 8RE**
-
+# Micro-Star International Co., Ltd. GE73 Raider RGB 8RE
 **CPU:** Intel i7-8750H (12) @ 2.210GHz - Coffee Lake
 **GPU (Integrated):** Intel(R) UHD Graphics 630
 **GPU (Discrete):** NVIDIA GeForce GTX 1060 - Pascal NV136 (GP106) with 6GB GDDR5
